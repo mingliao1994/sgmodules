@@ -8,5 +8,5 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, intellij.net, 🐱 OpenAI
-DOMAIN-SUFFIX, grazie.ai, 🐱 OpenAI
+DOMAIN-SUFFIX, intellij.net, 🐱OpenAI
+DOMAIN-SUFFIX, grazie.ai, 🐱OpenAI
