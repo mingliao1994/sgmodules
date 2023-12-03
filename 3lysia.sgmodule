@@ -1,5 +1,5 @@
-#!name=IPv6
-#!desc=IPv6
+#!name=3lysia
+#!desc=3lysia自用模块
 [General]
 ipv6 = true
 ipv6-vif = auto
