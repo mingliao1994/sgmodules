@@ -1,8 +1,12 @@
 #!name=3lysia
 #!desc=3lysia自用模块
+
 [General]
+
 ipv6 = true
 ipv6-vif = auto
+
 [Rule]
+
 DOMAIN-SUFFIX, intellij.net, Nexitally
 DOMAIN-SUFFIX, grazie.ai, Nexitally
