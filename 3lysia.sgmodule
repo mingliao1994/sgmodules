@@ -8,8 +8,8 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, 3lysia.com, Direct
-DOMAIN-SUFFIX, amadeus.org.cn, Direct
-DOMAIN-SUFFIX, listentothevoice.cn, Direct
+DOMAIN-SUFFIX, 3lysia.com, Nexitally
+DOMAIN-SUFFIX, amadeus.org.cn, Nexitally
+DOMAIN-SUFFIX, listentothevoice.cn, Nexitally
 DOMAIN-SUFFIX, intellij.net, 🐱 OpenAI
 DOMAIN-SUFFIX, grazie.ai, 🐱 OpenAI
