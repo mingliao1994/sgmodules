@@ -8,10 +8,10 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, 3lysia.com, Nexitally
-DOMAIN-SUFFIX, amadeus.org.cn, Nexitally
-DOMAIN-SUFFIX, listentothevoice.cn, Nexitally
-DOMAIN-SUFFIX, intellij.net, 🐱 OpenAI
-DOMAIN-SUFFIX, grazie.ai, 🐱 OpenAI
-DOMAIN-SUFFIX, netlify.app, 🐱 OpenAI
-DOMAIN-SUFFIX, netlify.com, 🐱 OpenAI
+DOMAIN-SUFFIX, 3lysia.com, Kuromis
+DOMAIN-SUFFIX, amadeus.org.cn, Kuromis
+DOMAIN-SUFFIX, listentothevoice.cn, Kuromis
+DOMAIN-SUFFIX, intellij.net, Kuromis
+DOMAIN-SUFFIX, grazie.ai, Kuromis
+DOMAIN-SUFFIX, netlify.app, Kuromis
+DOMAIN-SUFFIX, netlify.com, Kuromis
