@@ -9,10 +9,8 @@ ipv6-vif = auto
 [Rule]
 
 DOMAIN-SUFFIX, 3lysia.com, Kuromis
-DOMAIN-SUFFIX, amadeus.org.cn, Kuromis
-DOMAIN-SUFFIX, listentothevoice.cn, Kuromis
 DOMAIN-SUFFIX, intellij.net, 🇸🇬 Singapore
 DOMAIN-SUFFIX, grazie.ai, 🇸🇬 Singapore
-DOMAIN-SUFFIX, netlify.app, Kuromis
-DOMAIN-SUFFIX, netlify.com, Kuromis
-DOMAIN-SUFFIX, bing.com, Kuromis
+DOMAIN-SUFFIX, bing.com, 🇸🇬 Singapore
+DOMAIN-SUFFIX, google.com, 🇸🇬 Singapore
+DOMAIN-SUFFIX, ykl-med.com, Direct
