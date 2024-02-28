@@ -8,10 +8,12 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, 3lysia.com, 🇭🇰 香港ipv6-3|中转|2x|NF
-DOMAIN-SUFFIX, miss-pink-elf-elysia.com, 🇭🇰 香港ipv6-3|中转|2x|NF
+SCRIPT, miss-pink-elf-elysia, 🇭🇰 香港ipv6-3|中转|2x|NF, requires-resolve
 DOMAIN-SUFFIX, intellij.net, 🇸🇬 Singapore
 DOMAIN-SUFFIX, grazie.ai, 🇸🇬 Singapore
 DOMAIN-SUFFIX, bing.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, google.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, ykl-med.com, DIRECT
+
+[Script]
+miss-pink-elf-elysia = type=rule,script-path=https://raw.githubusercontent.com/mingliao1994/sgmodules/main/miss-pink-elf-elysia.js
