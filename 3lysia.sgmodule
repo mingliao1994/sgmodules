@@ -13,6 +13,7 @@ DOMAIN-SUFFIX, grazie.ai, 🇸🇬 Singapore
 DOMAIN-SUFFIX, bing.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, google.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, ykl-med.com, DIRECT
+
 SCRIPT, miss-pink-elf-elysia, 🇭🇰 香港ipv6-3|中转|2x|NF, requires-resolve
 DOMAIN-SUFFIX, miss-pink-elf-elysia.com, DIRECT
 DOMAIN-SUFFIX, 3lysia.com, DIRECT
