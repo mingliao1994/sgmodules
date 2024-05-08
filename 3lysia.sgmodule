@@ -19,6 +19,7 @@ SCRIPT, 3lysia, 🇭🇰 DMIT香港2|2x|NF, requires-resolve
 DOMAIN-SUFFIX, 3lysia.com, DIRECT
 DOMAIN-SUFFIX, amadeus.org.cn, DIRECT
 DOMAIN-SUFFIX, miss-pink-elf-elysia.com, DIRECT
+RULE-SET, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Reddit/Reddit.list, 🇸🇬 Singapore
 
 [Script]
 3lysia = type=rule,script-path=https://raw.githubusercontent.com/mingliao1994/sgmodules/main/3lysia.js
