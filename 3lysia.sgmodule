@@ -15,7 +15,7 @@ DOMAIN-SUFFIX, bing.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, google.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, ykl-med.com, DIRECT
 
-SCRIPT, 3lysia, 🇭🇰 DMIT香港2|2x|NF, requires-resolve
+SCRIPT, 3lysia, 🇭🇰 香港节点, requires-resolve
 DOMAIN-SUFFIX, 3lysia.com, DIRECT
 DOMAIN-SUFFIX, amadeus.org.cn, DIRECT
 DOMAIN-SUFFIX, miss-pink-elf-elysia.com, DIRECT
