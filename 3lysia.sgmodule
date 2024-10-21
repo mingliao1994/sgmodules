@@ -8,14 +8,7 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, intellij.net, 🇸🇬 Singapore
-DOMAIN-SUFFIX, grazie.ai, 🇸🇬 Singapore
-DOMAIN-SUFFIX, claude.ai, 🇸🇬 Singapore
-DOMAIN-SUFFIX, anthropic.com, 🇸🇬 Singapore 
-DOMAIN-SUFFIX, bing.com, 🇸🇬 Singapore
-DOMAIN-SUFFIX, google.com, 🇸🇬 Singapore
 DOMAIN-SUFFIX, ykl-med.com, DIRECT
 DOMAIN-SUFFIX, eastmoney.com, DIRECT
-DOMAIN-SUFFIX, groq.com, 🇸🇬 Singapore
 
 [Script]
