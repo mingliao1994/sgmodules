@@ -8,11 +8,10 @@ ipv6-vif = auto
 
 [Rule]
 
-DOMAIN-SUFFIX, ykl-med.com, DIRECT
-DOMAIN-SUFFIX, eastmoney.com, DIRECT
+IP-CIDR, 192.168.110.0/24, Force VPN
+DOMAIN-SUFFIX, ykl-med.com, Force VPN
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
-DOMAIN-SUFFIX, groq.com, 🇸🇬 Singapore 01
 DOMAIN-SUFFIX, todesk.com, DIRECT
 
 [Script]
