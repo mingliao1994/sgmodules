@@ -7,11 +7,10 @@ ipv6 = true
 ipv6-vif = auto
 
 [Rule]
-
-IP-CIDR, 192.168.110.0/24, Force VPN
-DOMAIN-SUFFIX, ykl-med.com, Force VPN
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
 DOMAIN-SUFFIX, todesk.com, DIRECT
+DOMAIN-SUFFIX, ykl-med.com, Force VPN
+IP-CIDR, 192.168.110.0/24, Force VPN
 
 [Script]
