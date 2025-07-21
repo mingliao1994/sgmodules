@@ -7,8 +7,8 @@ ipv6 = true
 ipv6-vif = auto
 
 [Rule]
-DOMAIN-SUFFIX, huggingface.co, Snell
-DOMAIN-SUFFIX, hf.co, Snell
+DOMAIN-SUFFIX, zed.dev, Snell US
+DOMAIN-SUFFIX, augmentcode.com, Snell US
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
 DOMAIN-SUFFIX, todesk.com, DIRECT
