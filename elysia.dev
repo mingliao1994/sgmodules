@@ -7,9 +7,9 @@ ipv6 = true
 ipv6-vif = auto
 
 [Rule]
-DOMAIN-SUFFIX, zed.dev, Snell US
-DOMAIN-SUFFIX, augmentcode.com, Snell US
-DOMAIN-SUFFIX, cursor.sh, Snell US
+DOMAIN-SUFFIX, zed.dev, Dynamic AI
+DOMAIN-SUFFIX, augmentcode.com, Dynamic AI
+DOMAIN-SUFFIX, cursor.sh, Dynamic AI
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
 DOMAIN-SUFFIX, todesk.com, DIRECT
