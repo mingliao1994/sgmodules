@@ -7,9 +7,17 @@ ipv6 = true
 ipv6-vif = auto
 
 [Rule]
-DOMAIN-SUFFIX, zed.dev, Dynamic AI
-DOMAIN-SUFFIX, augmentcode.com, Dynamic AI
-DOMAIN-SUFFIX, cursor.sh, Dynamic AI
+DOMAIN-SUFFIX, e-hentai.org, Snell US
+DOMAIN-SUFFIX, ehgt.org, Snell US
+DOMAIN-SUFFIX, ehwiki.org, Snell US
+DOMAIN-SUFFIX, exhentai.org, Snell US
+DOMAIN-SUFFIX, hath.network, Snell US
+DOMAIN-SUFFIX, hentaiverse.org, Snell US
+IP-CIDR, 178.175.128.0/21, Snell US
+
+DOMAIN-SUFFIX, zed.dev, Dynamic
+DOMAIN-SUFFIX, augmentcode.com, Dynamic
+DOMAIN-SUFFIX, cursor.sh, Dynamic
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
 DOMAIN-SUFFIX, todesk.com, DIRECT
