@@ -7,13 +7,13 @@ ipv6 = true
 ipv6-vif = auto
 
 [Rule]
-DOMAIN-SUFFIX, e-hentai.org, Snell US
-DOMAIN-SUFFIX, ehgt.org, Snell US
-DOMAIN-SUFFIX, ehwiki.org, Snell US
-DOMAIN-SUFFIX, exhentai.org, Snell US
-DOMAIN-SUFFIX, hath.network, Snell US
-DOMAIN-SUFFIX, hentaiverse.org, Snell US
-DOMAIN-SUFFIX, hanime1.me, Snell US
+DOMAIN-SUFFIX, e-hentai.org, Dynamic AI
+DOMAIN-SUFFIX, ehgt.org, Dynamic AI
+DOMAIN-SUFFIX, ehwiki.org, Dynamic AI
+DOMAIN-SUFFIX, exhentai.org, Dynamic AI
+DOMAIN-SUFFIX, hath.network, Dynamic AI
+DOMAIN-SUFFIX, hentaiverse.org, Dynamic AI
+DOMAIN-SUFFIX, hanime1.me, Dynamic AI
 
 DOMAIN-SUFFIX, zed.dev, Dynamic
 DOMAIN-SUFFIX, augmentcode.com, Dynamic
@@ -25,6 +25,6 @@ DOMAIN-SUFFIX, ykl-med.com, Force VPN
 
 IP-CIDR, 192.168.110.0/24, Force VPN
 IP-CIDR, 100.0.0.0/8, Force VPN
-IP-CIDR, 178.175.128.0/21, Snell US
+IP-CIDR, 178.175.128.0/21, Dynamic AI
 
 [Script]
