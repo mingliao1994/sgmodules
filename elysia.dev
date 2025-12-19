@@ -15,6 +15,12 @@ DOMAIN-SUFFIX, hanime1.me, US
 DOMAIN-SUFFIX, zed.dev, ALL
 DOMAIN-SUFFIX, augmentcode.com, ALL
 DOMAIN-SUFFIX, cursor.sh, ALL
+
+DOMAIN-SUFFIX, linux.do, ALL
+DOMAIN-SUFFIX, nodeseek.com, ALL
+DOMAIN-SUFFIX, v2ex.com, ALL
+DOMAIN-SUFFIX, idcflare.com, ALL
+
 DOMAIN-SUFFIX, elysia.dev, DIRECT
 DOMAIN-SUFFIX, elysia.today, DIRECT
 DOMAIN-SUFFIX, todesk.com, DIRECT
