@@ -4,6 +4,7 @@
 [General]
 
 [Rule]
+DOMAIN-SUFFIX, beanfun.com, EDGE
 DOMAIN-SUFFIX, e-hentai.org, EDGE
 DOMAIN-SUFFIX, ehgt.org, EDGE
 DOMAIN-SUFFIX, ehwiki.org, EDGE
